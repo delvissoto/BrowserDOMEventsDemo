@@ -1,4 +1,4 @@
-// Global scope
+// Global scope hey im here!
 
 const myButton = document.querySelector('#math-button');
 let counter = 0;
